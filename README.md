@@ -14,6 +14,9 @@ To see if displaying weather information increases visits to National Trust prop
 ### Purpose
 By comparing the behavior of both groups, we can determine if showing weather information encourages more visits to the properties. This helps us make informed decisions to enhance the visitor experience on the National Trust website.
 
+![image](https://github.com/user-attachments/assets/b42e8f2b-5266-4482-87f3-f158e2a16a32)
+![image](https://github.com/user-attachments/assets/56e509ee-725e-4670-b59b-5ae790bf4ba4)
+
 
 
 
